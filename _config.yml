@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: WenXing-blog
+subtitle: 独立的践行者
+description: 学而不思则罔，思而不学则殆；
+author: Xingxing Wen
+language: zh-Hans
+email: 150431575@qq.com
 timezone:
 
 # URL
@@ -48,6 +49,9 @@ default_category: uncategorized
 category_map:
 tag_map:
 
+#archive: 2
+category: 2
+tag: 2
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
@@ -63,7 +67,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hueman
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
